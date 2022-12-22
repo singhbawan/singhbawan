@@ -27,4 +27,4 @@ export const Bawan = () => {
 }
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhbawan&layout=compact)](https://github.com/singhbawan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhbawan&layout=compact)](https://github.com/singhbawan)    ![Bawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhbawan&show_icons=true&theme=github_dark)
