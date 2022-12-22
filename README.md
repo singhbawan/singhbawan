@@ -27,10 +27,9 @@ export const Bawan = () => {
 }
 ```
 
-
  <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/65YgwdF7hcaC9vcmFa/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i>&nbsp;<img src="https://media.giphy.com/media/65YgwdF7hcaC9vcmFa/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+ <img src="https://media.giphy.com/media/KaDjmXWQdqagpWSqPD/giphy.gif" width="40px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i>&nbsp;<img src="https://media.giphy.com/media/65YgwdF7hcaC9vcmFa/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhbawan&show_icons=true&locale=en&layout=compact" alt="Bawandeep-Singh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhbawan&show_icons=true&locale=en" alt="Bawandeep Singh" width="410" /></p>
