@@ -59,7 +59,7 @@ export const Bawan = () => {
 
 
 
-<details> 
+
   <summary> <img src="https://media.giphy.com/media/KaDjmXWQdqagpWSqPD/giphy.gif" width="50px" alt="GitHub-Status"/>&nbsp;<h2>📊 Github Stats and Activity</h2>&nbsp;<img src="https://media.giphy.com/media/65YgwdF7hcaC9vcmFa/giphy.gif" width="40px" alt="GitHub-Status"/></summary>
 
   <h3>🔥 Streak Stats</h3>
